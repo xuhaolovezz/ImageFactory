@@ -6,4 +6,5 @@ Creating a new branch is quick and simple.
 This is dev branch.
 This is bug test.
 The file is written by a new boy.
-This is other people test branch.
+This is two people test branch.
+
